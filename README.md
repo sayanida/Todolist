@@ -3,7 +3,7 @@
 **Project:** _To Do List_   
 **Version:** 1.0  
 **Author:** Saya Yoshida  
-**Date:** [5 Nov 2025]
+**Date:** [5 Nov 2025]  
 **Live Demo:**　https://sayanida.github.io/Todolist/ 
 
 A simple TodoList application built with **React**.  
